@@ -389,6 +389,7 @@ body {
   background-color: #00ffc0;
   color: black;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .portfolio .container .portfolio-content p {
